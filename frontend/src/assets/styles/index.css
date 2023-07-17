@@ -1,6 +1,9 @@
 main {
   min-height: 80vh;
 }
+.nav-black{
+  background:black;
+}
 
 .rating span {
   margin: 0.1rem;
